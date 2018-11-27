@@ -31,6 +31,7 @@
         var options = {
           region: 'FR', // Europe
           displayMode: 'markers',
+          
           colorAxis: {colors: ['#87CEEB', '#191970']},
           sizeAxis: { minValue: 0, maxValue: 2500000 }
         };
